@@ -22,6 +22,6 @@ img {
     width: 100%;
     height: 343px;
 
-   background-image: url("los-realejos.jpg"); 
+   background-image: url("los_realejos.jpg"); 
    background-size: cover;
 }
